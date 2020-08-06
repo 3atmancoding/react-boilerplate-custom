@@ -1,0 +1,12 @@
+.Nav{
+    text-align: center;
+    padding:0;
+}
+.Nav li{
+    display: inline-block;
+    padding: 0 10px;
+}
+.Nav a{
+    text-decoration: none;
+    color: #2f89fc
+}
